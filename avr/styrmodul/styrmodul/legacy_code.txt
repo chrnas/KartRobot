@@ -1,0 +1,21 @@
+/* Replace with your application code */
+	while (1) 
+	{
+				//PORTD = (0 << PORTD4) | (0 << PORTD5);
+		//wait	
+	}
+	/*bool start_bit = 0;
+	while (!start_bit)
+	{
+		start_bit = PINC0;
+		// wait
+	}
+	int clock_counter = 0;
+	int input_array[8];
+	while (clock_counter < 8){
+			input_array[clock_counter] = (PINC0);
+		while (PINC1 != 1){
+			// wait for next clock
+		}
+		clock_counter++;
+	}*/
