@@ -22,3 +22,7 @@ Vi använder oss av ett feature branch workflow, där man gör en ny branch för
 ## Kod
 
 Stil för kod följer standard enligt språk man använder sig av. Kod ska vara välkommenterad och väldokumenterad.
+
+
+## Produkt
+![20231201_112927](https://github.com/user-attachments/assets/f5522169-bb3a-41ab-9fe1-42c56282e304)
