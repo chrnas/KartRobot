@@ -25,4 +25,5 @@ Stil för kod följer standard enligt språk man använder sig av. Kod ska vara 
 
 
 ## Produkt
-<img src="[image-url](https://github.com/user-attachments/assets/f5522169-bb3a-41ab-9fe1-42c56282e304)" alt="Alt Text" width="300" height="200">
+![image](https://github.com/user-attachments/assets/4e35854f-83c3-4aaa-9475-76af412acf2c)
+
