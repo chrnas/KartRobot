@@ -25,5 +25,6 @@ Stil för kod följer standard enligt språk man använder sig av. Kod ska vara 
 
 
 ## Produkt
-![image](https://github.com/user-attachments/assets/4e35854f-83c3-4aaa-9475-76af412acf2c)
+![image](https://github.com/user-attachments/assets/5fbaa8c9-a2a6-4d29-9852-fe2b20a57777)
+
 
